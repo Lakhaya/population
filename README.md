@@ -8,4 +8,4 @@ Story public link   -     https://public.tableau.com/views/STORY_16825829081700/
 
 video demonstration link - https://drive.google.com/file/d/1sDO5xHQCBq9K373vYlVNKW5FvvPS8oBd/view?usp=sharing
 
-Project Report PPT link  - https://docs.google.com/presentation/d/1BfceJGhmqVC7PrkEOI7agLOwWABu853e/edit?usp=sharing&ouid=112296524362379205441&rtpof=true&sd=true
+Project Report PPT link  - https://docs.google.com/presentation/d/1WZ_2UX41yuze6CpR9i4OjemKBtGBVfja/edit?usp=sharing&ouid=112296524362379205441&rtpof=true&sd=true
